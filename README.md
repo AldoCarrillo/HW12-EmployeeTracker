@@ -1,5 +1,7 @@
 # HW12-EmployeeTracker
 
+### App Video: https://drive.google.com/file/d/1iUvnraKUmGsQS0xNK0CZCHCJQyCcm38M/view
+
 ## Description
 
 This project does you can track the employees of a company, where you can have:
