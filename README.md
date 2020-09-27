@@ -70,6 +70,10 @@ Run the terminal the main file called "app.js" with Node.
 
 ![screen](./media/example2.png)
 
+### Video
+
+![screen](./media/employee.gif)
+
 ## Credits
 
 - Aldo Carrillo
